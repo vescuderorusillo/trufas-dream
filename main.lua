@@ -8,6 +8,7 @@ require 'states/PlayState'
 require 'states/ScoreState'
 require 'states/TitleScreenState'
 require 'Bird'
+require 'Ball'
 require 'Pipe'
 require 'PipePair'
 
