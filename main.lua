@@ -17,7 +17,7 @@ WINDOW_HEIGHT = 720
 VIRTUAL_WIDTH = 512
 VIRTUAL_HEIGHT = 288
 
-local background = love.graphics.newImage('images/background.png')
+local background = love.graphics.newImage('images/hongkong.jpg')
 local backgroundScroll = 0
 
 local ground = love.graphics.newImage('images/ground.png')
@@ -26,7 +26,7 @@ local groundScroll = 0
 local BACKGROUND_SCROLL_SPEED = 30
 local GROUND_SCROLL_SPEED = 60
 
-local BACKGROUND_LOOPING_POINT = 413
+local BACKGROUND_LOOPING_POINT = 2779
 
 scrolling = true
 
